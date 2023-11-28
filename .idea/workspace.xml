@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05515fa5-8a25-4167-a8f7-597df142db6e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/12-devbytes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-gdgfinder/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13-gdgfinder/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-star-shower/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-star-shower/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-milky-way/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15-milky-way/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-sports-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-sports-app/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-fun-facts/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-fun-facts/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18-wander/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18-wander/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19-treasure-hunt/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19-treasure-hunt/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-egg-timer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-egg-timer/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-fan-controller/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21-fan-controller/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-minipaint/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22-minipaint/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-clipping-magic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23-clipping-magic/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-guessing-game/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-mars-photos/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-devbytes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-to-do-notes/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +17,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/06-guessing-game/app/build.gradle" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/elon/Desktop/kotlin-projects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/elon/Desktop/25&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
@@ -75,6 +65,21 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
